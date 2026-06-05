@@ -257,8 +257,7 @@ Tạo: `MainActivity`, `GiaiToanActivity`, `WebViewActivity`
 
 Chuột phải `com.example.nuyentienduc` → New → Activity → Empty Views Activity
 
-> 📸 **Ảnh minh hoạ:** Cấu trúc project
->
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5a9dcd03-f683-48a8-8d80-8759477aaab4" />
 
 
@@ -284,9 +283,8 @@ btnGiaiToan.setOnClickListener(v -> {
 });
 ```
 
-> 📸 **Ảnh minh hoạ:** MainActivity chạy trên Emulator
->
-> ![MainActivity](images/10_main_activity.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d9589fbf-32be-4bcc-a800-f60d3184e030" />
+
 
 ---
 
@@ -316,9 +314,7 @@ body.put("output", output);
 
 **Nhận lại JSON:** `{ok:1, stt:1234}`
 
-> 📸 **Ảnh minh hoạ:** Activity giải toán
->
-> ![GiaiToanActivity](images/11_giai_toan_activity.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ec8fe9e3-557c-4a91-953c-253ad3fc5309" />
 
 ---
 
@@ -331,9 +327,8 @@ webView.setWebViewClient(new WebViewClient());
 webView.loadUrl("https://k58kmt.tdh.io.vn?masv=K225480106081");
 ```
 
-> 📸 **Ảnh minh hoạ:** WebView Activity
->
-> ![WebViewActivity](images/12_webview_activity.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bf0d221-3dc3-4f25-814e-7f2f6facc174" />
+
 
 ---
 
@@ -358,10 +353,10 @@ InputStream is = getAssets().open("huongdan.json");
 - Đặc thù: mảng JSON, mỗi object có buoc/tieude/mota
 - Thuật toán: đọc file → parse JSONArray → duyệt từng object → đưa vào ArrayList
 - Hiển thị: `ListView` + `ArrayAdapter`
-
-> 📸 **Ảnh minh hoạ:** AssetsActivity
->
-> ![AssetsActivity](images/13_assets_activity.png)
+Design Preview ListView
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/2ac1eb0f-904f-400c-8a1e-7b00b679ea92" />
+AssetsActivity.java code
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5158fd4-4f78-4720-bcc8-06e3f118b41a" />
 
 ---
 
@@ -369,9 +364,8 @@ InputStream is = getAssets().open("huongdan.json");
 
 Build → Generate App Bundles or APKs → Generate APKs
 
-> 📸 **Ảnh minh hoạ:** Build successful
->
-> ![Build successful](images/14_build_success.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e64275db-9730-4316-a7fc-67ebfa0459ac" />
+
 
 ---
 
