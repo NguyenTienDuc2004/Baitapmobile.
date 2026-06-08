@@ -284,6 +284,7 @@ btnGiaiToan.setOnClickListener(v -> {
 ```
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d9589fbf-32be-4bcc-a800-f60d3184e030" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/a8b4f339-0c9f-4bc5-b846-210089bd8f13" />
 
 
 ---
@@ -315,6 +316,7 @@ body.put("output", output);
 **Nhận lại JSON:** `{ok:1, stt:1234}`
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ec8fe9e3-557c-4a91-953c-253ad3fc5309" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/50d66125-ddf3-4b92-8fe5-6fe0bac3cc51" />
 
 ---
 
@@ -328,6 +330,7 @@ webView.loadUrl("https://k58kmt.tdh.io.vn?masv=K225480106081");
 ```
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bf0d221-3dc3-4f25-814e-7f2f6facc174" />
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/d9253084-e7b1-42e3-be9a-cfb9e619c230" />
 
 
 ---
