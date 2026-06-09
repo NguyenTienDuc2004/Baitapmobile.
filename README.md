@@ -330,7 +330,8 @@ webView.loadUrl("https://k58kmt.tdh.io.vn?masv=K225480106081");
 ```
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bf0d221-3dc3-4f25-814e-7f2f6facc174" />
-<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/d9253084-e7b1-42e3-be9a-cfb9e619c230" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/43999537-8186-4401-8f23-ebfbc6d9436c" />
+
 
 
 ---
@@ -360,6 +361,8 @@ Design Preview ListView
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/2ac1eb0f-904f-400c-8a1e-7b00b679ea92" />
 AssetsActivity.java code
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f5158fd4-4f78-4720-bcc8-06e3f118b41a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1b6904c-1048-44fe-ae05-ee6465f37621" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1562900b-77e4-4dea-b0a9-f129cd5612b0" />
 
 ---
 
