@@ -66,7 +66,7 @@ Components:
 
 - Kéo **WebViewer** từ User Interface vào màn hình
 - Width = Fill parent, Height = Fill parent
-- HomeUrl = `https://vietnamnet.vn`
+- HomeUrl = (https://k58kmt.tdh.io.vn/?masv=K225480106081)
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0a846f5-6c21-45f1-bf25-16d589039bae" />
 
@@ -119,7 +119,9 @@ when Button1.Click
 
 ---
 ### Kết quả sau khi làm và test app
-<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/6bcd1cb6-7a50-4d47-ad35-a15be4712bf0" /> <img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/c34d9bf1-17c6-4879-bcfe-620eff71b38e" />
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/6bcd1cb6-7a50-4d47-ad35-a15be4712bf0" />
+<img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/b0d23570-4a27-401f-a4ba-2712a961f89e" />
+
 
 <img width="1290" height="2796" alt="image" src="https://github.com/user-attachments/assets/1f00136a-a72e-43e2-92f3-b890569540dd" />
 
